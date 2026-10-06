@@ -23,5 +23,7 @@ Pre-Made testing level
 Gameplay timer function
 <img width="1701" height="928" alt="image" src="https://github.com/user-attachments/assets/6bc773d6-b51e-43ed-ac0e-747a7082ee15" />
 Creating animations
+<img width="1171" height="434" alt="image" src="https://github.com/user-attachments/assets/b2883ade-d6f2-4157-b9f8-8d8db7f82dc8" />
+Building timeline animation for a moving platform
 
 
